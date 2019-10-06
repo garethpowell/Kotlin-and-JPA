@@ -4,3 +4,6 @@
 /modules.xml
 /misc.xml
 /Kotlin-and-JPA.iml
+/compiler.xml
+/gradle.xml
+/.name
